@@ -82,3 +82,4 @@ class FileStorage:
         calls the reload function and closes the database
         """
         self.reload()
+
